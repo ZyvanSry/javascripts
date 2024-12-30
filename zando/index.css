@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo{
+    width: 200px;
+    height: 40px;
+}
+.searchbar{
+    width: 130px;
+    height: 30px;
+    border-radius: 24px;
+}
+sup{
+    color: rgb(255, 255, 255);
+    background-color: red;
+}

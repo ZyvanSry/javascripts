@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.container {
+    padding: 20px;
+    border-radius: 24px;
+    width: fit-content;
+    box-shadow: 0 0 8px gray;
+}
+
+.layout {
+    margin-top: 10px;
+}
